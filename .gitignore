@@ -1,4 +1,4 @@
-#to detect these files, i used in the gitbash consolo this line "find . -size +1G | cat >> .gitignore"
+#to detect these files, i used in the gitbash consolo this line "find . -size +50M | cat >> .gitignore"
 #it automatically search the files over 50 megas in the repo
 #and added them to the .gitignore file
 
@@ -17,3 +17,7 @@
 ./twitter-scrapper/df_tweets_bolivia_spanish.json
 ./twitter-scrapper/tweets_bolivia/df_tweets_bolivia_spanish.csv
 ./twitter-scrapper/tweets_evo_morales/df_tweets_evo-morales_spanish.csv
+./emotional-mining/.ipynb_checkpoints/emotional-mining-twitter-v01-checkpoint.ipynb
+./emotional-mining/.ipynb_checkpoints/emotional-mining-twitter-v01-checkpoint.ipynb
+./emotional-mining/.ipynb_checkpoints/emotional-mining-twitter-v01-checkpoint.ipynb
+./emotional-mining/.ipynb_checkpoints/emotional-mining-twitter-v01-checkpoint.ipynb
