@@ -1,9 +1,9 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://github.com/miguestepa/agenda-setting-bolivia-2019/blob/main/presentation/title.PNG" width="1000"/>
 
-# Title of My Project
-*[Your Name]*
+# Agenda Setting: 2019 Bolivian Political Crisis
+*[Miguel Estepa]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona & 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -26,13 +26,11 @@ What dataset (or datasets) did you use? What are the different sources you used 
 Outline the workflow you used in your project. What are the steps you went through?
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+For this project, I created a Trello canvas to organize all the information, specially during the initial brainstorming process.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/miguestepa/agenda-setting-bolivia-2019)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/lg0h5gXm/ironhack-project-4)  
